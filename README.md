@@ -7,17 +7,9 @@
 
 - 👯 I’m looking to collaborate on **other students will to share their works and learn from them.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NatMendoza](https://github.com/NatMendoza)
-
-- 📝 I regularly write articles on [N/A](N/A)
-
 - 💬 Ask me about **Studies and experiences**
 
 - 📫 How to reach me **qnmendoza@tip.edu.ph**
-
-- 📄 Know about my experiences [N/A](N/A)
-
-- ⚡ Fun fact **N/A**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

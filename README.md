@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mendoza, Nathaniel Borja</h1>
 <h3 align="center">A passionate Computer Engineering Student learning at Technological Institute of the Phillippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natmendoza" alt="natmendoza" /></a> </p>
-
 - 🔭 I’m currently working on **Goverment Management System using C++**
 
 - 🌱 I’m currently learning **C++ and progressively studying other languages**

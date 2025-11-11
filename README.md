@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mendoza, Nathaniel Borja</h1>
 <h3 align="center">A passionate Computer Engineering Student learning at Technological Institute of the Phillippines</h3>
 
-<h3 align="center"> ![Image](https://github.com/user-attachments/assets/c939dd59-6feb-478d-b90f-e35d2486403a)
+![Image](https://github.com/user-attachments/assets/928bf929-733f-4d74-a2f4-41e4bd814b6d)
 
 - 🔭 I’m currently working on **Goverment Management System using C++**
 
